@@ -8,6 +8,7 @@ This project demonstrates core Python programming concepts in a simple and inter
 Programming Language: Python 3
 Module Used: random
 Platform: Command Line / Terminal
+
  **Sample Output**
 Welcome to the Number Guessing Game!
 Choose difficulty level:
@@ -23,10 +24,8 @@ Enter your guess: 17
 Congratulations! You guessed the number.
 Attempts used: 3
 Final Score: 80
+
 **Future Enhancements**
 Difficulty-based scoring system
 Timer-based scoring
-High score storage using file handling
-Graphical User Interface (GUI) using Tkinter
-
-Input validation for non-numeric values
+High score storage using file handling 
