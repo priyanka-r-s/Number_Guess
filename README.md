@@ -15,11 +15,14 @@ Choose difficulty level:
 1. Easy (1–10)
 2. Medium (1–50)
 3. Hard (1–100)
+4. 
 I have selected a number between 1 and 50.
 You have 10 attempts. Good luck!
+
 Enter your guess: 25
 Too high! Try again.
 Attempts left: 9
+
 Enter your guess: 17
 Congratulations! You guessed the number.
 Attempts used: 3
